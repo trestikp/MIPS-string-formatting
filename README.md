@@ -1,7 +1,7 @@
 # MIPS-string-formatting
 Simple string formatting in MIPS. More in README
 
-ukol2.s
+<b>ukol2.s</b><br>
 As said above. Is a simple program which prompts the user to add a string and then modify it
 with the use of instructions d and i. <br>
 Instruction d\<position\> - deletes char at \<position\>. <br>
@@ -18,6 +18,6 @@ It was more or less my first time writing a program in assembly and it probably 
 There is probably a lot of improvements possible on the code, but maybe it can help another 
 noob like me.
 
-ukol1.circ
+<b>ukol1.circ</b><br>
 Is a circuit done in Logism. It only simulates simple 5 state automat.
 It's just my backup for the whole subject so it's there.
