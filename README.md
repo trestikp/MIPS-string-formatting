@@ -11,6 +11,8 @@ i.e. input = "hello" <br>
 instr: d1 -> "hllo" <br>
 instr: i1e -> "hello" <br>
 
+instr: e (or anything beggining with 'e') ends the program.
+
 
 
 This program isn't completely fool proof and almost certainly has bugs and things to improve.
