@@ -20,6 +20,9 @@ It was more or less my first time writing a program in assembly and it probably 
 There is probably a lot of improvements possible on the code, but maybe it can help another 
 noob like me.
 
+<b>Note</b>
+Simulator used QtSpim. The syscall codes are similar in other simulators I've seen tho.
+
 <b>ukol1.circ</b><br>
 Is a circuit done in Logism. It only simulates simple 5 state automat.
 It's just my backup for the whole subject so it's there.
