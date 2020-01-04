@@ -1,3 +1,5 @@
+This is a semestral work for KIV/UPA @ ZCU. (2019)
+
 # MIPS-string-formatting
 Simple string formatting in MIPS. More in README
 
